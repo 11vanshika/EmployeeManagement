@@ -1,0 +1,8 @@
+C:\Oops_project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Oops_project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Oops_project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Oops_project\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Oops_project\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Oops_project\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Oops_project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Oops_project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
